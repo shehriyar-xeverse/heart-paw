@@ -1,0 +1,6 @@
+{
+  "name": "HEART + PAW",
+  "description": "Premium pet wellness and veterinary care platform designed with a warm, natural, and friendly aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
